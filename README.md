@@ -12,7 +12,7 @@ Packages:
 #API:
 https://developers.google.com/youtube/v3
 
-Description: I have used to React to develop this YouTube Clone Application.
+Description: I have used React to develop this YouTube Clone Application.
 API Request handling is done by Axios
 Material UI is used for the UI design
 Both Class-based components and Function based components are used according to the requirement.
