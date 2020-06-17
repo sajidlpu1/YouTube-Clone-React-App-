@@ -28,7 +28,7 @@ class App extends React.Component {
                 //part --> According to API Doc it returns videos
                 part: 'snippet',
                 maxResults: 4,
-                key: 'AIzaSyDxlCjWD6irfvFNxHlAu440J_35whx0XI4',
+                key: '[API_KEY]',
                 q: searchTerm,
             }
         });
