@@ -19,3 +19,7 @@ Description: I have used React to develop this YouTube Clone Application.
 API Request handling is done by Axios
 Material UI is used for the UI design
 Both Class-based components and Function based components are used according to the requirement.
+
+#Note:
+Insert API Key in App.js file to make the page functionable.
+API key from Google API's --> YouTube API
